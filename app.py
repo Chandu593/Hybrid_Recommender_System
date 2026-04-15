@@ -6,9 +6,6 @@ Professional research-grade UI for the multi-stage hybrid recommender.
 import os
 os.environ["TF_USE_LEGACY_KERAS"] = "1"
 os.environ["KERAS_BACKEND"] = "tensorflow"
-os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "1"
-os.environ["HF_HUB_CACHE"] = "/data/hf_cache"
-
 import torch
 import tensorflow as tf
 import sys
