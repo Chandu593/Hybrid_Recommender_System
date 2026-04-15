@@ -23,7 +23,7 @@ The system handles **cold-start users** gracefully via a popularity + vote avg +
 
 ## 🚀 Live Demo
 
-> **Try the app:** *(https://hybridrecommendersystem-dwgijawevbwdxxyakyvebg.streamlit.app/)*
+> **Try the app:** *(https://hybridrecommendersystem-hnf7wmxye8rvpmffmy832a.streamlit.app/)*
 ##### Note : Better experience in dark mode
 The app ships with four tabs:
 
